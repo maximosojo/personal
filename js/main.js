@@ -1,6 +1,7 @@
 /*!
  * Máximo Sojo - Personal v1 (https://github.com/maximosojo/personal)
  * Copyright 2019
+ * Licensed under MIT (https://github.com/maximosojo/personal/blob/master/LICENSE)
  */
 ! function(e) {
     "use strict";
