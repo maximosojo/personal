@@ -40,6 +40,11 @@ h2 {
     font-size: 3.5rem;
 }
 
+#about{
+    background-color: #013A6B;
+    background-image: -webkit-linear-gradient(30deg, #004e95 50%, #222222 50%);
+}
+
 .subheading {
     text-transform: uppercase;
     font-weight: 500;
